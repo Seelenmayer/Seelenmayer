@@ -1,8 +1,11 @@
 '`'~._.~'`'~._.~'`'~._.~'`
 
 Yo, what's good?
+
 Clayton Seelenmayer
+
 seelenmayer@live.com
+
 💜💙💚 https://twitter.com/seelenmayer 💚💙💜
 
 '`'~._.~'`'~._.~'`'~._.~'`
