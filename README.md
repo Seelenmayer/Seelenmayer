@@ -1,12 +1,6 @@
-Clayton Seelenmayer
-
-seelenmayer@live.com
-
-💜💙💚 https://twitter.com/seelenmayer 💚💙💜
-
 2022-02-08
 
-Hello! I'm an aspiring technical and VFX artist.
+Hello! The name is Clayton. I'm an aspiring technical and VFX artist.
 My goal is to design and develop tools for artists to help bring creativity to the world.
 I'm interested in assisting companies and collaberators to build assets within the film and gaming industries.
 I currently reside near Nanaimo B.C. of Vancouver Island, Canada.
@@ -24,3 +18,7 @@ VIU during the dark winter nights pursueing my OpenGL projects. I loved every as
 topology, grammars, shaders, controllers, projections, mappings, algorithms, version control, and so much more.
 
 This is my passion, and I hope to share my love with others on my way up.
+
+seelenmayer@live.com
+
+💜💙💚 https://twitter.com/seelenmayer 💚💙💜
